@@ -1,0 +1,1 @@
+nestes loop redmi file
