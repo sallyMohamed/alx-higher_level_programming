@@ -8,7 +8,7 @@
  * *
  * * Description: singly linked list node structure
  * * for project
- * */
+ **/
 typedef struct listint_s
 {
 	int n;
